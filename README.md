@@ -1,5 +1,4 @@
 # README.md
-# README.md
 <h1 align="center">Hi 👋 I'm Utkarsh</h1>
 <h3 align="center">🅰️ passionate CS student based in Germany 🇩🇪</h3>
 
