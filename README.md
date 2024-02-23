@@ -1,4 +1,11 @@
-# README.md
+
+
+<div align="center" display: flex; justify-content: center>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWNyd2IybTFid3hhd3pxenFiaG9jNW0yajZpM2lpMDZ5bjhsdnZmdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8fRwPZtbWkkX6/giphy.gif"alt="masterhead" style="width: 100%; height:100%; max-width: 100%; max-height:100%;" />
+</div>
+
+
+
 <h1 align="center">Hi 👋 I'm Utkarsh</h1>
 <h3 align="center">🅰️ passionate CS student based in Germany 🇩🇪</h3>
 
